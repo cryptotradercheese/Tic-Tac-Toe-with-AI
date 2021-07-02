@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0c9325b-cd5b-47f5-9de0-943bb6c0a268" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI (1)/task/task.Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI__1_-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI (1)/task/task.Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI__1_-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI (1)/task/task.Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI__1_-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe with AI/task/Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe_with_AI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Abstract class/IntBinaryOperation/Tic-Tac-Toe_with_AI.Topics-Abstract_class-IntBinaryOperation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Abstract class/IntBinaryOperation/Tic-Tac-Toe_with_AI.Topics-Abstract_class-IntBinaryOperation.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Abstract class/IntBinaryOperation/Tic-Tac-Toe_with_AI.Topics-Abstract_class-IntBinaryOperation.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Abstract class/Shape hierarchy/Tic-Tac-Toe_with_AI.Topics-Abstract_class-Shape_hierarchy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Abstract class/Shape hierarchy/Tic-Tac-Toe_with_AI.Topics-Abstract_class-Shape_hierarchy.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Abstract class/Shape hierarchy/Tic-Tac-Toe_with_AI.Topics-Abstract_class-Shape_hierarchy.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Abstract class/Theory/Tic-Tac-Toe_with_AI.Topics-Abstract_class-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Abstract class/Theory/Tic-Tac-Toe_with_AI.Topics-Abstract_class-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Abstract class/Theory/Tic-Tac-Toe_with_AI.Topics-Abstract_class-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Abstract class/Users and WebSites/Tic-Tac-Toe_with_AI.Topics-Abstract_class-Users_and_WebSites.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Abstract class/Users and WebSites/Tic-Tac-Toe_with_AI.Topics-Abstract_class-Users_and_WebSites.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Abstract class/Users and WebSites/Tic-Tac-Toe_with_AI.Topics-Abstract_class-Users_and_WebSites.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Constructor/Account and its owner/Tic-Tac-Toe_with_AI.Topics-Constructor-Account_and_its_owner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Constructor/Account and its owner/Tic-Tac-Toe_with_AI.Topics-Constructor-Account_and_its_owner.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Constructor/Account and its owner/Tic-Tac-Toe_with_AI.Topics-Constructor-Account_and_its_owner.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Constructor/Account/Tic-Tac-Toe_with_AI.Topics-Constructor-Account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Constructor/Account/Tic-Tac-Toe_with_AI.Topics-Constructor-Account.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Constructor/Account/Tic-Tac-Toe_with_AI.Topics-Constructor-Account.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Constructor/Theory/Tic-Tac-Toe_with_AI.Topics-Constructor-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Constructor/Theory/Tic-Tac-Toe_with_AI.Topics-Constructor-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Constructor/Theory/Tic-Tac-Toe_with_AI.Topics-Constructor-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Constructor/User/Tic-Tac-Toe_with_AI.Topics-Constructor-User.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Constructor/User/Tic-Tac-Toe_with_AI.Topics-Constructor-User.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Constructor/User/Tic-Tac-Toe_with_AI.Topics-Constructor-User.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Inner boxes/Tic-Tac-Toe_with_AI.Topics-Defining_classes-Inner_boxes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Inner boxes/Tic-Tac-Toe_with_AI.Topics-Defining_classes-Inner_boxes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Inner boxes/Tic-Tac-Toe_with_AI.Topics-Defining_classes-Inner_boxes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Points on the 2D plane/Tic-Tac-Toe_with_AI.Topics-Defining_classes-Points_on_the_2D_plane.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Points on the 2D plane/Tic-Tac-Toe_with_AI.Topics-Defining_classes-Points_on_the_2D_plane.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Points on the 2D plane/Tic-Tac-Toe_with_AI.Topics-Defining_classes-Points_on_the_2D_plane.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Representing time as a class/Tic-Tac-Toe_with_AI.Topics-Defining_classes-Representing_time_as_a_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Representing time as a class/Tic-Tac-Toe_with_AI.Topics-Defining_classes-Representing_time_as_a_class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Representing time as a class/Tic-Tac-Toe_with_AI.Topics-Defining_classes-Representing_time_as_a_class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Theory/Tic-Tac-Toe_with_AI.Topics-Defining_classes-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Theory/Tic-Tac-Toe_with_AI.Topics-Defining_classes-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Theory/Tic-Tac-Toe_with_AI.Topics-Defining_classes-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Account/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Account/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Account.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Account/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Account.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Book/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Book/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Book.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Book/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Book.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Complex/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Complex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Complex/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Complex.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Complex/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Complex.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Getting the fullname/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Getting_the_fullname.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Getting the fullname/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Getting_the_fullname.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Getting the fullname/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Getting_the_fullname.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Theory/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Theory/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Getters and setters/Theory/Tic-Tac-Toe_with_AI.Topics-Getters_and_setters-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hiding and overriding/Publications/Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Publications.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hiding and overriding/Publications/Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Publications.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hiding and overriding/Publications/Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Publications.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hiding and overriding/Theory/Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hiding and overriding/Theory/Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Hiding and overriding/Theory/Tic-Tac-Toe_with_AI.Topics-Hiding_and_overriding-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Classes for Hospital/Tic-Tac-Toe_with_AI.Topics-Inheritance-Classes_for_Hospital.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Classes for Hospital/Tic-Tac-Toe_with_AI.Topics-Inheritance-Classes_for_Hospital.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Classes for Hospital/Tic-Tac-Toe_with_AI.Topics-Inheritance-Classes_for_Hospital.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Theory/Tic-Tac-Toe_with_AI.Topics-Inheritance-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Theory/Tic-Tac-Toe_with_AI.Topics-Inheritance-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Inheritance/Theory/Tic-Tac-Toe_with_AI.Topics-Inheritance-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Car/Tic-Tac-Toe_with_AI.Topics-Instance_methods-Car.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Car/Tic-Tac-Toe_with_AI.Topics-Instance_methods-Car.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Car/Tic-Tac-Toe_with_AI.Topics-Instance_methods-Car.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Complex numbers/Tic-Tac-Toe_with_AI.Topics-Instance_methods-Complex_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Complex numbers/Tic-Tac-Toe_with_AI.Topics-Instance_methods-Complex_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Complex numbers/Tic-Tac-Toe_with_AI.Topics-Instance_methods-Complex_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/In a box/Tic-Tac-Toe_with_AI.Topics-Instance_methods-In_a_box.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/In a box/Tic-Tac-Toe_with_AI.Topics-Instance_methods-In_a_box.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/In a box/Tic-Tac-Toe_with_AI.Topics-Instance_methods-In_a_box.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Simulating a clock/Tic-Tac-Toe_with_AI.Topics-Instance_methods-Simulating_a_clock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Simulating a clock/Tic-Tac-Toe_with_AI.Topics-Instance_methods-Simulating_a_clock.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Simulating a clock/Tic-Tac-Toe_with_AI.Topics-Instance_methods-Simulating_a_clock.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Theory/Tic-Tac-Toe_with_AI.Topics-Instance_methods-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Theory/Tic-Tac-Toe_with_AI.Topics-Instance_methods-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Instance methods/Theory/Tic-Tac-Toe_with_AI.Topics-Instance_methods-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Account Service/Tic-Tac-Toe_with_AI.Topics-Interface-Account_Service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Account Service/Tic-Tac-Toe_with_AI.Topics-Interface-Account_Service.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Account Service/Tic-Tac-Toe_with_AI.Topics-Interface-Account_Service.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Area of a circle/Tic-Tac-Toe_with_AI.Topics-Interface-Area_of_a_circle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Area of a circle/Tic-Tac-Toe_with_AI.Topics-Interface-Area_of_a_circle.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Area of a circle/Tic-Tac-Toe_with_AI.Topics-Interface-Area_of_a_circle.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Topics-Interface-Compact_strings_with_AsciiCharSequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Topics-Interface-Compact_strings_with_AsciiCharSequence.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Compact strings with AsciiCharSequence/Tic-Tac-Toe_with_AI.Topics-Interface-Compact_strings_with_AsciiCharSequence.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Topics-Interface-Mutable_geometric_shapes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Topics-Interface-Mutable_geometric_shapes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Mutable geometric shapes/Tic-Tac-Toe_with_AI.Topics-Interface-Mutable_geometric_shapes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Theory/Tic-Tac-Toe_with_AI.Topics-Interface-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Theory/Tic-Tac-Toe_with_AI.Topics-Interface-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Interface/Theory/Tic-Tac-Toe_with_AI.Topics-Interface-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Check the essay/Tic-Tac-Toe_with_AI.Topics-Match_results-Check_the_essay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Check the essay/Tic-Tac-Toe_with_AI.Topics-Match_results-Check_the_essay.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Check the essay/Tic-Tac-Toe_with_AI.Topics-Match_results-Check_the_essay.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Extracting big numbers from a text/Tic-Tac-Toe_with_AI.Topics-Match_results-Extracting_big_numbers_from_a_text.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Extracting big numbers from a text/Tic-Tac-Toe_with_AI.Topics-Match_results-Extracting_big_numbers_from_a_text.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Extracting big numbers from a text/Tic-Tac-Toe_with_AI.Topics-Match_results-Extracting_big_numbers_from_a_text.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Extracting words from a text/Tic-Tac-Toe_with_AI.Topics-Match_results-Extracting_words_from_a_text.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Extracting words from a text/Tic-Tac-Toe_with_AI.Topics-Match_results-Extracting_words_from_a_text.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Extracting words from a text/Tic-Tac-Toe_with_AI.Topics-Match_results-Extracting_words_from_a_text.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Find all passwords/Tic-Tac-Toe_with_AI.Topics-Match_results-Find_all_passwords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Find all passwords/Tic-Tac-Toe_with_AI.Topics-Match_results-Find_all_passwords.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Find all passwords/Tic-Tac-Toe_with_AI.Topics-Match_results-Find_all_passwords.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Theory/Tic-Tac-Toe_with_AI.Topics-Match_results-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Theory/Tic-Tac-Toe_with_AI.Topics-Match_results-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Match results/Theory/Tic-Tac-Toe_with_AI.Topics-Match_results-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Employee/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Employee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Employee/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Employee.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Employee/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Employee.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Movie/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Movie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Movie/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Movie.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Movie/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Movie.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Phone/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Phone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Phone/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Phone.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Phone/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Phone.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Theory/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Theory/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Theory/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Time/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Time/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Time.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple constructors/Time/Tic-Tac-Toe_with_AI.Topics-Multiple_constructors-Time.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Objects/Army/Tic-Tac-Toe_with_AI.Topics-Objects-Army.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Objects/Army/Tic-Tac-Toe_with_AI.Topics-Objects-Army.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Objects/Army/Tic-Tac-Toe_with_AI.Topics-Objects-Army.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Objects/Change identities/Tic-Tac-Toe_with_AI.Topics-Objects-Change_identities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Objects/Change identities/Tic-Tac-Toe_with_AI.Topics-Objects-Change_identities.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Objects/Change identities/Tic-Tac-Toe_with_AI.Topics-Objects-Change_identities.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Objects/Preparing full name/Tic-Tac-Toe_with_AI.Topics-Objects-Preparing_full_name.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Objects/Preparing full name/Tic-Tac-Toe_with_AI.Topics-Objects-Preparing_full_name.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Objects/Preparing full name/Tic-Tac-Toe_with_AI.Topics-Objects-Preparing_full_name.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Objects/Theory/Tic-Tac-Toe_with_AI.Topics-Objects-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Objects/Theory/Tic-Tac-Toe_with_AI.Topics-Objects-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Objects/Theory/Tic-Tac-Toe_with_AI.Topics-Objects-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Overloading methods/Tic-Tac-Toe_with_AI.Topics-Overloading-Overloading_methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Overloading methods/Tic-Tac-Toe_with_AI.Topics-Overloading-Overloading_methods.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Overloading methods/Tic-Tac-Toe_with_AI.Topics-Overloading-Overloading_methods.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Print/Tic-Tac-Toe_with_AI.Topics-Overloading-Print.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Print/Tic-Tac-Toe_with_AI.Topics-Overloading-Print.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Print/Tic-Tac-Toe_with_AI.Topics-Overloading-Print.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Theory/Tic-Tac-Toe_with_AI.Topics-Overloading-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Theory/Tic-Tac-Toe_with_AI.Topics-Overloading-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Theory/Tic-Tac-Toe_with_AI.Topics-Overloading-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Package/Binary search/Tic-Tac-Toe_with_AI.Topics-Package-Binary_search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Package/Binary search/Tic-Tac-Toe_with_AI.Topics-Package-Binary_search.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Package/Binary search/Tic-Tac-Toe_with_AI.Topics-Package-Binary_search.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Package/Creating instances/Tic-Tac-Toe_with_AI.Topics-Package-Creating_instances.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Package/Creating instances/Tic-Tac-Toe_with_AI.Topics-Package-Creating_instances.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Package/Creating instances/Tic-Tac-Toe_with_AI.Topics-Package-Creating_instances.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Package/Sorting arrays/Tic-Tac-Toe_with_AI.Topics-Package-Sorting_arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Package/Sorting arrays/Tic-Tac-Toe_with_AI.Topics-Package-Sorting_arrays.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Package/Sorting arrays/Tic-Tac-Toe_with_AI.Topics-Package-Sorting_arrays.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Package/Theory/Tic-Tac-Toe_with_AI.Topics-Package-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Package/Theory/Tic-Tac-Toe_with_AI.Topics-Package-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Package/Theory/Tic-Tac-Toe_with_AI.Topics-Package-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/Find a word with a given length/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-Find_a_word_with_a_given_length.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/Find a word with a given length/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-Find_a_word_with_a_given_length.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/Find a word with a given length/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-Find_a_word_with_a_given_length.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/In the middle of a word/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-In_the_middle_of_a_word.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/In the middle of a word/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-In_the_middle_of_a_word.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/In the middle of a word/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-In_the_middle_of_a_word.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/Number parsing/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-Number_parsing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/Number parsing/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-Number_parsing.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/Number parsing/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-Number_parsing.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/Start or end of a word/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-Start_or_end_of_a_word.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/Start or end of a word/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-Start_or_end_of_a_word.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/Start or end of a word/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-Start_or_end_of_a_word.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/Theory/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/Theory/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Patterns and Matcher/Theory/Tic-Tac-Toe_with_AI.Topics-Patterns_and_Matcher-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Polymorphism/Find mistake/Tic-Tac-Toe_with_AI.Topics-Polymorphism-Find_mistake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Polymorphism/Find mistake/Tic-Tac-Toe_with_AI.Topics-Polymorphism-Find_mistake.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Polymorphism/Find mistake/Tic-Tac-Toe_with_AI.Topics-Polymorphism-Find_mistake.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Polymorphism/Publication and its subclasses/Tic-Tac-Toe_with_AI.Topics-Polymorphism-Publication_and_its_subclasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Polymorphism/Publication and its subclasses/Tic-Tac-Toe_with_AI.Topics-Polymorphism-Publication_and_its_subclasses.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Polymorphism/Publication and its subclasses/Tic-Tac-Toe_with_AI.Topics-Polymorphism-Publication_and_its_subclasses.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Polymorphism/Theory/Tic-Tac-Toe_with_AI.Topics-Polymorphism-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Polymorphism/Theory/Tic-Tac-Toe_with_AI.Topics-Polymorphism-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Polymorphism/Theory/Tic-Tac-Toe_with_AI.Topics-Polymorphism-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Random/Find the seed/Tic-Tac-Toe_with_AI.Topics-Random-Find_the_seed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Random/Find the seed/Tic-Tac-Toe_with_AI.Topics-Random-Find_the_seed.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Random/Find the seed/Tic-Tac-Toe_with_AI.Topics-Random-Find_the_seed.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Random/Gaussian random numbers/Tic-Tac-Toe_with_AI.Topics-Random-Gaussian_random_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Random/Gaussian random numbers/Tic-Tac-Toe_with_AI.Topics-Random-Gaussian_random_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Random/Gaussian random numbers/Tic-Tac-Toe_with_AI.Topics-Random-Gaussian_random_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Random/Generate random numbers/Tic-Tac-Toe_with_AI.Topics-Random-Generate_random_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Random/Generate random numbers/Tic-Tac-Toe_with_AI.Topics-Random-Generate_random_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Random/Generate random numbers/Tic-Tac-Toe_with_AI.Topics-Random-Generate_random_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Random/Theory/Tic-Tac-Toe_with_AI.Topics-Random-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Random/Theory/Tic-Tac-Toe_with_AI.Topics-Random-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Random/Theory/Tic-Tac-Toe_with_AI.Topics-Random-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Recursion/Alternating Fibonacci numbers/Tic-Tac-Toe_with_AI.Topics-Recursion-Alternating_Fibonacci_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Recursion/Alternating Fibonacci numbers/Tic-Tac-Toe_with_AI.Topics-Recursion-Alternating_Fibonacci_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Recursion/Alternating Fibonacci numbers/Tic-Tac-Toe_with_AI.Topics-Recursion-Alternating_Fibonacci_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Recursion/K-combination/Tic-Tac-Toe_with_AI.Topics-Recursion-K-combination.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Recursion/K-combination/Tic-Tac-Toe_with_AI.Topics-Recursion-K-combination.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Recursion/K-combination/Tic-Tac-Toe_with_AI.Topics-Recursion-K-combination.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Recursion/Number of decompositions/Tic-Tac-Toe_with_AI.Topics-Recursion-Number_of_decompositions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Recursion/Number of decompositions/Tic-Tac-Toe_with_AI.Topics-Recursion-Number_of_decompositions.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Recursion/Number of decompositions/Tic-Tac-Toe_with_AI.Topics-Recursion-Number_of_decompositions.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Recursion/Theory/Tic-Tac-Toe_with_AI.Topics-Recursion-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Recursion/Theory/Tic-Tac-Toe_with_AI.Topics-Recursion-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Recursion/Theory/Tic-Tac-Toe_with_AI.Topics-Recursion-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Check IP address/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Check_IP_address.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Check IP address/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Check_IP_address.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Check IP address/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Check_IP_address.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Check the clock time/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Check_the_clock_time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Check the clock time/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Check_the_clock_time.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Check the clock time/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Check_the_clock_time.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Illegal identifiers/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Illegal_identifiers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Illegal identifiers/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Illegal_identifiers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Illegal identifiers/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Illegal_identifiers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Safe password/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Safe_password.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Safe password/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Safe_password.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Safe password/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Safe_password.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Theory/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Theory/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Theory/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Vehicle registration number/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Vehicle_registration_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Vehicle registration number/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Vehicle_registration_number.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Regexes in programs/Vehicle registration number/Tic-Tac-Toe_with_AI.Topics-Regexes_in_programs-Vehicle_registration_number.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Static members/Project constants and methods/Tic-Tac-Toe_with_AI.Topics-Static_members-Project_constants_and_methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Static members/Project constants and methods/Tic-Tac-Toe_with_AI.Topics-Static_members-Project_constants_and_methods.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Static members/Project constants and methods/Tic-Tac-Toe_with_AI.Topics-Static_members-Project_constants_and_methods.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Static members/Theory/Tic-Tac-Toe_with_AI.Topics-Static_members-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Static members/Theory/Tic-Tac-Toe_with_AI.Topics-Static_members-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Static members/Theory/Tic-Tac-Toe_with_AI.Topics-Static_members-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Static members/Time constants/Tic-Tac-Toe_with_AI.Topics-Static_members-Time_constants.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Static members/Time constants/Tic-Tac-Toe_with_AI.Topics-Static_members-Time_constants.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Static members/Time constants/Tic-Tac-Toe_with_AI.Topics-Static_members-Time_constants.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Static members/Too many cats/Tic-Tac-Toe_with_AI.Topics-Static_members-Too_many_cats.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Static members/Too many cats/Tic-Tac-Toe_with_AI.Topics-Static_members-Too_many_cats.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Static members/Too many cats/Tic-Tac-Toe_with_AI.Topics-Static_members-Too_many_cats.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The keyword super/Employees/Tic-Tac-Toe_with_AI.Topics-The_keyword_super-Employees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The keyword super/Employees/Tic-Tac-Toe_with_AI.Topics-The_keyword_super-Employees.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The keyword super/Employees/Tic-Tac-Toe_with_AI.Topics-The_keyword_super-Employees.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The keyword super/Fix the non-compiled hierarchy/Tic-Tac-Toe_with_AI.Topics-The_keyword_super-Fix_the_non-compiled_hierarchy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The keyword super/Fix the non-compiled hierarchy/Tic-Tac-Toe_with_AI.Topics-The_keyword_super-Fix_the_non-compiled_hierarchy.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The keyword super/Fix the non-compiled hierarchy/Tic-Tac-Toe_with_AI.Topics-The_keyword_super-Fix_the_non-compiled_hierarchy.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The keyword super/Theory/Tic-Tac-Toe_with_AI.Topics-The_keyword_super-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The keyword super/Theory/Tic-Tac-Toe_with_AI.Topics-The_keyword_super-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The keyword super/Theory/Tic-Tac-Toe_with_AI.Topics-The_keyword_super-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe_with_AI.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/An undefeated champion/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/An undefeated champion/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/An undefeated champion/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/Easy does it/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/Easy does it/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/Easy does it/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/Initial setup/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/Initial setup/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/Initial setup/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/Signs of intelligence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/Signs of intelligence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/Signs of intelligence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/Watch 'em fight/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/Watch 'em fight/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/Watch 'em fight/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/CellContent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/ConsoleGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/Difficulty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/EasyDifficulty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/GameState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/Grid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/HardDifficulty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/MediumDifficulty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/PlayerArguments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/PlayerContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/main/tictactoe/RealPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/test/CellState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/test/GameState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/test/Grid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/test/Minimax$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/test/Minimax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/test/Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/test/TicTacToeTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/classes/java/test/TicTacToeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/reports/tests/test/classes/TicTacToeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/test-results/test/TEST-TicTacToeTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_11521152652540728833_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_11610697828715335143_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_12281226666667557069_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_13045946718245641960_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_14993598477922607671_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_16493416540492848813_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_17499075395375620760_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_17509508254268634291_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_18312286037326408593_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_3868022787582533243_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_4772733323316409241_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_5929755826466373948_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_6268037892727472932_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/build/tmp/test/jar_extract_6794176811564733289_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/CellContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/ConsoleGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/OldBadAttemptToSolveTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/PlayerStrategy/Difficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/PlayerStrategy/EasyDifficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/PlayerStrategy/HardDifficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/PlayerStrategy/MediumDifficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/PlayerStrategy/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/PlayerStrategy/PlayerArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/PlayerStrategy/PlayerContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/copy/PlayerStrategy/RealPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/CellContent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/ConsoleGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/GameState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/Grid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/playerstrategy/Difficulty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/playerstrategy/EasyDifficulty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/playerstrategy/HardDifficulty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/playerstrategy/MediumDifficulty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/playerstrategy/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/playerstrategy/PlayerArguments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/playerstrategy/PlayerContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/out/production/classes/tictactoe/playerstrategy/RealPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/CellContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/ConsoleGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/playerstrategy/Difficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/playerstrategy/EasyDifficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/playerstrategy/HardDifficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/playerstrategy/MediumDifficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/playerstrategy/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/playerstrategy/PlayerArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/playerstrategy/PlayerContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src/tictactoe/playerstrategy/RealPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/test/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/test/Minimax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/test/TicTacToeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/An undefeated champion/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/An undefeated champion/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/An undefeated champion/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/Easy does it/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/Easy does it/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/Easy does it/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/Initial setup/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/Initial setup/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/Initial setup/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/Signs of intelligence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/Signs of intelligence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/Signs of intelligence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/Watch 'em fight/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/Watch 'em fight/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/Watch 'em fight/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/classes/java/main/tictactoe/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/classes/java/test/CellState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/classes/java/test/GameState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/classes/java/test/Grid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/classes/java/test/Minimax$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/classes/java/test/Minimax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/classes/java/test/Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/classes/java/test/TicTacToeTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/classes/java/test/TicTacToeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/reports/tests/test/classes/TicTacToeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/test-results/test/TEST-TicTacToeTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/tmp/test/jar_extract_14993598477922607671_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/build/tmp/test/jar_extract_4772733323316409241_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/src/tictactoe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/test/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/test/Minimax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe with AI/task/test/TicTacToeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/IntBinaryOperation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/IntBinaryOperation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/IntBinaryOperation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/IntBinaryOperation/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/Shape hierarchy/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/Shape hierarchy/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/Shape hierarchy/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/Shape hierarchy/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/Users and WebSites/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/Users and WebSites/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/Users and WebSites/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/Users and WebSites/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Abstract class/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Account and its owner/out/production/classes/Main$Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Account and its owner/out/production/classes/Main$User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Account and its owner/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Account and its owner/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Account and its owner/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Account and its owner/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Account and its owner/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Account/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Account/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Account/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Account/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/User/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/User/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/User/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/User/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Constructor/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Inner boxes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Inner boxes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Inner boxes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Inner boxes/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Representing time as a class/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Representing time as a class/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Representing time as a class/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Representing time as a class/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Account/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Account/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Account/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Account/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Book/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Book/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Book/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Book/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Complex/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Complex/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Complex/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Complex/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Getting the fullname/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Getting the fullname/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Getting the fullname/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Getting the fullname/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Getters and setters/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hiding and overriding/Publications/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hiding and overriding/Publications/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hiding and overriding/Publications/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hiding and overriding/Publications/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hiding and overriding/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hiding and overriding/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hiding and overriding/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hiding and overriding/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Hiding and overriding/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Inheritance/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Car/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Car/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Car/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Car/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Complex numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Complex numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Complex numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Complex numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/In a box/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/In a box/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/In a box/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/In a box/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Simulating a clock/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Simulating a clock/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Simulating a clock/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Simulating a clock/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Instance methods/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Account Service/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Account Service/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Account Service/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Account Service/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Area of a circle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Area of a circle/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Area of a circle/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Area of a circle/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Compact strings with AsciiCharSequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Compact strings with AsciiCharSequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Compact strings with AsciiCharSequence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Compact strings with AsciiCharSequence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Mutable geometric shapes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Mutable geometric shapes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Mutable geometric shapes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Mutable geometric shapes/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Interface/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Check the essay/out/production/classes/FindTheKeys.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Check the essay/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Check the essay/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Check the essay/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Check the essay/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Extracting big numbers from a text/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Extracting big numbers from a text/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Extracting big numbers from a text/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Extracting big numbers from a text/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Extracting big numbers from a text/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Extracting words from a text/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Extracting words from a text/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Extracting words from a text/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Extracting words from a text/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Find all passwords/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Find all passwords/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Find all passwords/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Find all passwords/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Find all passwords/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Match results/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Employee/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Employee/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Employee/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Employee/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Movie/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Movie/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Movie/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Movie/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Phone/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Phone/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Phone/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Phone/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Time/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Time/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Time/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/Time/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple constructors/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Army/out/production/classes/Army$Doctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Army/out/production/classes/Army$General.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Army/out/production/classes/Army$Knight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Army/out/production/classes/Army$Unit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Army/out/production/classes/Army.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Army/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Army/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Army/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Army/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Change identities/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Change identities/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Change identities/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Change identities/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Preparing full name/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Preparing full name/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Preparing full name/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Preparing full name/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Objects/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Overloading methods/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Overloading methods/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Overloading methods/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Overloading methods/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Print/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Print/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Print/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Print/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Print/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overloading/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Binary search/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Binary search/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Binary search/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Binary search/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Creating instances/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Creating instances/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Creating instances/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Creating instances/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Sorting arrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Sorting arrays/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Sorting arrays/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Sorting arrays/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Package/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Find a word with a given length/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Find a word with a given length/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Find a word with a given length/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Find a word with a given length/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/In the middle of a word/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/In the middle of a word/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/In the middle of a word/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/In the middle of a word/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Number parsing/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Number parsing/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Number parsing/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Number parsing/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Number parsing/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Start or end of a word/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Start or end of a word/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Start or end of a word/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Start or end of a word/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Start or end of a word/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Patterns and Matcher/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Polymorphism/Find mistake/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Polymorphism/Find mistake/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Polymorphism/Find mistake/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Polymorphism/Find mistake/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Polymorphism/Publication and its subclasses/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Polymorphism/Publication and its subclasses/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Polymorphism/Publication and its subclasses/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Polymorphism/Publication and its subclasses/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Polymorphism/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Polymorphism/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Polymorphism/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Polymorphism/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Polymorphism/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Find the seed/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Find the seed/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Find the seed/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Find the seed/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Find the seed/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Gaussian random numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Gaussian random numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Gaussian random numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Gaussian random numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Generate random numbers/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Generate random numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Generate random numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Generate random numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Generate random numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Random/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/Alternating Fibonacci numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/Alternating Fibonacci numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/Alternating Fibonacci numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/Alternating Fibonacci numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/K-combination/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/K-combination/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/K-combination/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/K-combination/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/K-combination/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/Number of decompositions/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/Number of decompositions/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/Number of decompositions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/Number of decompositions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/Number of decompositions/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Recursion/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Check IP address/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Check IP address/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Check IP address/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Check IP address/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Check IP address/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Check the clock time/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Check the clock time/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Check the clock time/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Check the clock time/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Illegal identifiers/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Illegal identifiers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Illegal identifiers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Illegal identifiers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Illegal identifiers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Safe password/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Safe password/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Safe password/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Safe password/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Safe password/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Vehicle registration number/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Vehicle registration number/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Vehicle registration number/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Vehicle registration number/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/Vehicle registration number/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Regexes in programs/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Project constants and methods/out/production/classes/ConstantsAndUtilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Project constants and methods/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Project constants and methods/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Project constants and methods/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Project constants and methods/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Project constants and methods/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Time constants/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Time constants/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Time constants/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Time constants/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Too many cats/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Too many cats/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Too many cats/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/Too many cats/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Static members/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The keyword super/Employees/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The keyword super/Employees/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The keyword super/Employees/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The keyword super/Employees/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The keyword super/Fix the non-compiled hierarchy/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The keyword super/Fix the non-compiled hierarchy/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The keyword super/Fix the non-compiled hierarchy/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The keyword super/Fix the non-compiled hierarchy/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The keyword super/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The keyword super/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The keyword super/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The keyword super/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The keyword super/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Tic-Tac-Toe_with_AI" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1ueBPpiEt3VQ51QaUv5Sndg0lde" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tic-Tac-Toe with AI (1)/task/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.12578619" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tictactoe.Main" />
+      <module name="task.Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI__1_-task.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tictactoe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0c9325b-cd5b-47f5-9de0-943bb6c0a268" name="Default Changelist" comment="" />
+      <created>1625016152931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625016152931</updated>
+      <workItem from="1625016154492" duration="484000" />
+      <workItem from="1625016680748" duration="58000" />
+      <workItem from="1625016812379" duration="40000" />
+      <workItem from="1625016885127" duration="81000" />
+      <workItem from="1625016987595" duration="3792000" />
+      <workItem from="1625070538392" duration="36563000" />
+      <workItem from="1625204602056" duration="521000" />
+      <workItem from="1625205130857" duration="521000" />
+      <workItem from="1625205660942" duration="1083000" />
+      <workItem from="1625206752374" duration="1493000" />
+      <workItem from="1625235957709" duration="930000" />
+      <workItem from="1625236900037" duration="8000" />
+      <workItem from="1625236921401" duration="336000" />
+      <workItem from="1625237328617" duration="235000" />
+      <workItem from="1625237581303" duration="124000" />
+      <workItem from="1625237734095" duration="10000" />
+      <workItem from="1625237802778" duration="254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
